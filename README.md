@@ -10,4 +10,4 @@ I put LLM automation into real business operations, and I measure where it fails
 
 The first thing I measure in any system is the difference between what it says it did and what has confirmation.
 
-📫 [LinkedIn](https://www.linkedin.com/in/pablocorreia0985) · open to remote contract engagements, with full overlap with US Eastern hours.
+📫 [LinkedIn](https://www.linkedin.com/in/pablocorreia0985) · open to remote contract engagements, overlapping most of the US Eastern workday.
